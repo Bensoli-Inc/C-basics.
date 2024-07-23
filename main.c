@@ -2,6 +2,10 @@
 #include <stdlib.h>
 
 int main() {
-    printf("Hello0 world!\n");
+    printf("   /|\n");
+    printf("  / |\n");
+    printf(" /  |\n");
+    printf("/___|\n");
+
     return 0; 
 }

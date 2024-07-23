@@ -11,3 +11,4 @@ For Vs code, install the C/C++ extension by Microsoft.
 
 int main() {}: Defines the main function which is the program's starting point. It returns an integer value, which is typically used to indicate whether the program executed successfully or if there were errors.
 
+Always open vscode from Developer CMD for vscode.
