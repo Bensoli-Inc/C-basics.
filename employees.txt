@@ -1,0 +1,4 @@
+Jim, salesman
+Alex, receiptionist
+Carol, Accountant
+Kelly, customer Care
