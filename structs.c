@@ -35,7 +35,7 @@ printf("Age: %d\n", Student1.age);
 
 printf("Name: %s\n", Student2.name);
 printf("Mean Grade: %f\n", Student2.meanGrade);
-printf("Age: %s", Student2.course);
+printf("Course: %s", Student2.course);
 
 
     return 0;
